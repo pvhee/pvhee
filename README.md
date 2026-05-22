@@ -5,6 +5,5 @@ My name is Peter. I'm director of engineering (AI) at [Cutover](https://www.cuto
 I'm interested in all things web, technology and product, through agile engineering practices, serverless and cloud-native technologies and continuous integration and development.
 
 How to reach me:
-- Twitter: [@pvhee](https://twitter.com/pvhee)
 - [LinkedIn](https://www.linkedin.com/in/petervanhee)
-- I sometimes share my writings on [Medium](https://medium.com/@pvhee)
+- I sometimes share my writings on [Medium](https://medium.com/@pvhee) or [CloudWired](https://cloudwired.dev/)
